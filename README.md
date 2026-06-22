@@ -24,30 +24,14 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const birendra: Developer = {
-  name:     "Birendra Bohara",
-  location: "Nepal 🇳🇵",
-  role:     "Full-Stack Developer",
-  tagline:  "I build fast, secure, and scalable web applications",
-
-  techStack: {
-    frontend:    ["Next.js 16", "React", "TypeScript", "Tailwind CSS v4", "Redux Toolkit", "Shadcn UI", "Framer Motion"],
-    backend:     ["Node.js", "Express.js", "Socket.IO", "WebSockets", "REST APIs"],
-    databases:   ["MongoDB", "Mongoose", "PostgreSQL", "Neon DB", "Drizzle ORM"],
-    auth:        ["NextAuth v5", "Clerk", "JWT", "bcryptjs", "Google OAuth"],
-    security:    ["Arcjet (WAF + Rate Limiting + Bot Protection)", "Zod"],
-    ai:          ["Gemini AI", "Vapi AI (Voice)", "ElevenLabs"],
-    cloud:       ["Vercel", "Render", "Cloudinary", "Vercel Blob", "Upstash / QStash"],
-    payments:    ["eSewa (sandbox + production)"],
-    tools:       ["Formik", "Yup", "React Hook Form", "Recharts", "Leaflet", "Nodemailer", "dayjs"],
-  },
-
-  currentlyLearning: ["Docker", "Redis", "System Design", "AWS"],
-  openTo:            ["Freelance", "Full-time roles", "Open Source contributions"],
-  funFact:           "I debug with console.log and I'm proud of it 😄",
-};
-```
+- 🌍 &nbsp; Based in **Nepal**
+- 💼 &nbsp; **Full-Stack Developer**
+- 🚀 &nbsp; I build **fast, secure & scalable** web apps
+- 🔭 &nbsp; Currently working on **DailoXpress** & **EchoReadsX**
+- 🌱 &nbsp; Learning **Docker · Redis · AWS · System Design**
+- 💬 &nbsp; Ask me about **Next.js, Node.js, MongoDB, Socket.IO**
+- 📞 &nbsp; Reach me at **+977 9821614509**
+- ⚡ &nbsp; Fun fact: I debug with `console.log` and I'm proud of it 😄
 
 ---
 
@@ -103,8 +87,9 @@ const birendra: Developer = {
 
 ## 📊 GitHub Stats
 
+<!-- ✅ FIXED: Removed include_all_commits=true & count_private=true (caused "Could not fetch total commits" error) -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Birendra16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Birendra16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Birendra16&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
@@ -118,22 +103,14 @@ const birendra: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Birendra16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Birendra16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Birendra16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Birendra_Bohara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/birendra-bohara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-birendrabohara16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birendrabohara16)
 [![Portfolio](https://img.shields.io/badge/Portfolio-DailoXpress-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://dailo-xpress.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:birendra@example.com)
+[![Email](https://img.shields.io/badge/Email-bbirendra693@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbirendra693@gmail.com)
 
 </div>
 
