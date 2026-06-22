@@ -24,14 +24,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🌍 &nbsp; Based in **Nepal**
+- 🌍 &nbsp; Based in **Koteshwor, Kathmandu, Nepal**
 - 💼 &nbsp; **Full-Stack Developer**
 - 🚀 &nbsp; I build **fast, secure & scalable** web apps
-- 🔭 &nbsp; Currently working on **DailoXpress** & **EchoReadsX**
-- 🌱 &nbsp; Learning **Docker · Redis · AWS · System Design**
-- 💬 &nbsp; Ask me about **Next.js, Node.js, MongoDB, Socket.IO**
+- 🔭 &nbsp; Currently working on **DailoXpress**
+- 💬 &nbsp; Ask me about **Next.js, React. Express.js, MongoDB, Socket.IO**
 - 📞 &nbsp; Reach me at **+977 9821614509**
-- ⚡ &nbsp; Fun fact: I debug with `console.log` and I'm proud of it 😄
+- 💻 &nbsp; Improving my coding skills every day
 
 ---
 
