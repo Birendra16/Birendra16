@@ -108,7 +108,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Birendra16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Birendra16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-birendrabohara16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birendrabohara16)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DailoXpress-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://dailo-xpress.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-MyPortfolio-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://my-portfolio-seven-ruddy-72.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-bbirendra693@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbirendra693@gmail.com)
 
 </div>
