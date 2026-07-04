@@ -27,7 +27,7 @@
 * 🌍 Based in **Koteshwor, Kathmandu, Nepal**
 * 💼 **Full-Stack Developer** focused on modern web applications
 * 🚀 I build **fast, secure, scalable, and real-time** applications
-* 🔭 Currently working on **DailoXpress**
+* 🔭 Currently learning  **Docker, Redis, System Design, LangChain, LangGraph, RAG, Vector DB, AWS & CI/CD**
 * 💬 Ask me about **Next.js, React, Express.js, MongoDB, Socket.IO**
 * 🌱 Continuously improving my **problem-solving and development skills**
 * 📫 Reach me at **[bbirendra693@gmail.com](mailto:bbirendra693@gmail.com)**
@@ -87,14 +87,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Birendra16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Birendra16&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birendra16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Birendra16&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 <br/>
