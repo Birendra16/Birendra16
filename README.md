@@ -27,7 +27,7 @@
 * 🌍 Based in **Koteshwor, Kathmandu, Nepal**
 * 💼 **Full-Stack Developer** focused on modern web applications
 * 🚀 I build **fast, secure, scalable, and real-time** applications
-* 🔭 Currently learning  **Docker, Redis, System Design, LangChain, LangGraph, RAG, Vector DB, AWS & CI/CD**
+* 🔭 Currently building **BironixAI** : a full-stack microservices-based multi-agent AI Platform powered by **LangChain, LangGraph, RAG, Redis, Docker.**
 * 💬 Ask me about **Next.js, React, Express.js, MongoDB, Socket.IO**
 * 🌱 Continuously improving my **problem-solving and development skills**
 * 📫 Reach me at **[bbirendra693@gmail.com](mailto:bbirendra693@gmail.com)**
