@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=Birendra%20Bohara&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Next.js%20%7C%20Express.js%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=65&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=Birendra%20Bohara&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20Express.js%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=65&descSize=16" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6EE7B7&center=true&vCenter=true&width=650&lines=Hey%2C+I%E2%80%99m+Birendra+Bohara+%F0%9F%91%8B;Full-Stack+Developer+from+Nepal;Building+scalable+and+real-time+web+applications;Next.js+%7C+Express.js+%7C+Node.js+%7C+MongoDB;Open+to+collaborations+and+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6EE7B7&center=true&vCenter=true&width=650&lines=Hey%2C+I%E2%80%99m+Birendra+Bohara+%F0%9F%91%8B;Full-Stack+Developer+from+Nepal;Building+scalable+and+real-time+web+applications;React.js+%7C+Next.js+%7C+Express.js+%7C+Node.js+%7C+MongoDB;Open+to+collaborations+and+opportunities" alt="Typing SVG" />
 </div>
 
 <br/>
